@@ -1,0 +1,12 @@
+{
+  "name": "weatherin",
+  "version": "1.0.0",
+  "description": "This is a command line utility that takes in any number of zip codes and logs out a message with the current weather in that zip code.",
+  "main": "main.js",
+  "scripts": {
+  	"start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Foster",
+  "license": "ISC"
+}
