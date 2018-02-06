@@ -1,0 +1,1 @@
+This is a command line utility that takes in any number of zip codes and prints a message with the current weather in that zip code to the standard output.
